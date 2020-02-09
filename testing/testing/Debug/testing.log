@@ -1,0 +1,105 @@
+﻿Build started 01/08/2018 12:58:04 م.
+     1>Project "D:\prog\testing\testing\testing.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\prog\testing\testing\source.cpp(17): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(58): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(96): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(104): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(107): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(133): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(148): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(153): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(185): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(191): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(246): warning C4018: '>' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(251): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(253): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(257): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(278): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(286): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(304): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(310): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(339): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(362): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(382): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(411): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(438): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(440): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(445): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(459): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(475): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(479): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(492): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(505): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(549): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(558): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(571): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(576): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(593): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(603): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(649): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(651): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(666): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(684): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(686): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(702): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(712): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(716): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(723): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(737): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(755): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(763): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(767): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(779): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(787): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(797): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(801): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(819): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(834): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(838): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(849): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(864): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(879): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(900): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(906): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(939): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(945): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(979): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(988): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(992): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1017): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1018): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1022): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1033): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1047): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1077): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1081): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1153): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1155): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1171): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1186): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1201): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1210): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1211): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1220): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1221): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1233): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1235): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1248): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\prog\testing\testing\source.cpp(1257): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(1258): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>d:\prog\testing\testing\source.cpp(791): warning C4715: 'get_varIndex' : not all control paths return a value
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\prog\testing\Debug\testing.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\prog\testing\Debug\testing.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\prog\testing\Debug\testing.lib" /MACHINE:X86 Debug\Source.obj
+         testing.vcxproj -> D:\prog\testing\Debug\testing.exe
+     1>Done Building Project "D:\prog\testing\testing\testing.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.77

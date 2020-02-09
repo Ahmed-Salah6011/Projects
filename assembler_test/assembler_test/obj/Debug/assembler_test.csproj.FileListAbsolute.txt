@@ -1,0 +1,29 @@
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\bin\Debug\assembler_test.exe.config
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\bin\Debug\assembler_test.exe
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\bin\Debug\assembler_test.pdb
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.csprojResolveAssemblyReference.cache
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.Form1.resources
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.Properties.Resources.resources
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.csproj.GenerateResource.Cache
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.exe
+c:\users\sala7\documents\visual studio 2013\Projects\assembler_test\assembler_test\obj\Debug\assembler_test.pdb
+E:\prog\assembler_test\assembler_test\bin\Debug\assembler_test.exe.config
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.exe
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.pdb
+E:\prog\assembler_test\assembler_test\bin\Debug\assembler_test.exe
+E:\prog\assembler_test\assembler_test\bin\Debug\assembler_test.pdb
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.csprojResolveAssemblyReference.cache
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.Form1.resources
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.Properties.Resources.resources
+E:\prog\assembler_test\assembler_test\obj\Debug\assembler_test.csproj.GenerateResource.Cache
+E:\assembler_test\assembler_test\bin\Debug\assembler_test.exe.config
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.exe
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.pdb
+E:\assembler_test\assembler_test\bin\Debug\assembler_test.exe
+E:\assembler_test\assembler_test\bin\Debug\assembler_test.pdb
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.csprojResolveAssemblyReference.cache
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.Form1.resources
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.Properties.Resources.resources
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.csproj.GenerateResource.Cache
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.Form2.resources
+E:\assembler_test\assembler_test\obj\Debug\assembler_test.Form3.resources
